@@ -1,3 +1,6 @@
+![task 1-p1](https://user-images.githubusercontent.com/109856025/182188401-6622da9f-f6af-4482-9ac6-0cdbb6d819f1.png)
+![task 1-p1](https://user-images.githubusercontent.com/109856025/182188457-4dd11f41-63dd-4870-8974-f20872849d8b.png)
+![task1-p2](https://user-images.githubusercontent.com/109856025/182188656-3e738fb2-8505-4ac3-931e-ab9e04114142.png)
 # abdulrhman
 
 1- was to download ORACLE's Virtual Machine software on my laptop i have downloaded from the official site 
